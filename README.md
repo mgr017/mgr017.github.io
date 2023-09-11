@@ -1,6 +1,7 @@
 # About me
 
-![IMG_0030.pdf](https://github.com/mgr017/mgr017.github.io/files/12578474/IMG_0030.pdf)
+![IMG_0030.pdf](https://github.com/mgr017/mgr017.github.io/files/12578484/IMG_0030.pdf)
+
 
 
 
