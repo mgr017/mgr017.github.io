@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a first year Master's student in [Chris Elphick's](https://elphick.lab.uconn.edu) lab, in the [University of Connecticut's Ecology and Evolutionary Biology Department.](https://eeb.uconn.edu).
+I am a first year Master's student in [Chris Elphick's](https://elphick.lab.uconn.edu) lab, in the [University of Connecticut's Ecology and Evolutionary Biology Department.](https://eeb.uconn.edu)
 
 I am primarily interested in animal behavior and habitat restoration. I am also interested in animal personality and individuality, animal learning behaviors, evolution and its relation to animal behavior, and avian ecology.
 
