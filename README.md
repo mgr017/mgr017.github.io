@@ -1,7 +1,9 @@
 # mgr017.github.io
 ## Maya Ray - Masters student in Biodiversity and Conservation Biology
 
-![me and the homie](https://drive.google.com/file/d/1nqppJAnw2zPi9RRANVAaew-ya8KnMIPS/view?usp=sharing)
+![IMG_0030.pdf](https://github.com/mgr017/mgr017.github.io/files/12577945/IMG_0030.pdf)
+
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
