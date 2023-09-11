@@ -1,3 +1,6 @@
+ # mgr017.github.io
+ ## Maya Ray - Masters student in Biodiversity and Conservation Biology
+
 
 # h1 Heading
 ## h2 Heading
@@ -27,5 +30,4 @@
 
  ## Blockquotes
 
- # mgr017.github.io
- ## Maya Ray - Masters student in Biodiversity and Conservation Biology
+
