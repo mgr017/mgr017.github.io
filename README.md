@@ -18,9 +18,11 @@ I have participated in the following projects:
 
 **Movement Behavior in *Lampsilis cariosa*, the yellow lamp mussel**
 
+This project focuses on the social behavior of the yellow lamp mussels, and how it relates to their locomotion. Movement tracking tehcnology was used in order to determine if the number and position of living and non living individuals in a given living space affected the movement patterns of the mussels.
 
 **Monitoring of *Ammodramus caudacutus*, the salt marsh sparrow**
 
+In various sites in cooastal Connecticut, salt marsh restorations are underway, with hopes of restoring natural biodiversity. This project focused on the populations of salt marsh sparrows, with additional attention paid to other marsh-dwelling avian species. Individuals of the target species were captured and released, after banding, body measurements, and blood draws were completed. Additionally, nesting activity was monitored for both target and non target species. 
 
 ## Contact information
 
