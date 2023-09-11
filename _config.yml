@@ -1,1 +1,7 @@
 http://mgr017.github.io/hyde/
+
+remote_theme: pages-themes/hyde
+
+<body class="theme-base-0e">
+  ...
+</body>
