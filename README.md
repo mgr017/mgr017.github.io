@@ -18,7 +18,7 @@ I have participated in the following projects:
 
 **Movement Behavior in *Lampsilis cariosa*, the yellow lamp mussel**
 
-This project focuses on the social behavior of the yellow lamp mussels, and how it relates to their locomotion. Movement tracking tehcnology was used in order to determine if the number and position of living and non living individuals in a given living space affected the movement patterns of the mussels.
+This project focuses on the social behavior of the yellow lamp mussels, and how it relates to their locomotion. Movement tracking technology was used in order to determine if the number and position of living and non living individuals in a given living space affected the movement patterns of the mussels.
 
 **Monitoring of *Ammodramus caudacutus*, the salt marsh sparrow**
 
