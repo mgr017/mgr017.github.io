@@ -1,6 +1,6 @@
 
 
-![IMG_0030.pdf](https://github.com/mgr017/mgr017.github.io/files/12578484/IMG_0030.pdf)
+!![birdholding](https://github.com/mgr017/mgr017.github.io/assets/144354932/2ad906c2-f94c-42be-a218-4ffe7486335b)
 
 ## About me
 
